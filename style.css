@@ -1,0 +1,82 @@
+body{
+
+    margin: o;
+    padding: 0;
+    background-image: url(finance6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav span{
+    display: flex;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav ul li{
+    padding: 35px;
+    list-style: none;
+    font-size: 25px;
+    color: black;
+    margin-bottom: 50px;
+}
+
+img{
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+    margin: 35px 8px 0px 0px ; 
+}
+
+h1{
+    color:black;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 50px;
+    
+    
+}
+h4{
+    color:black;
+    font-size: 25px;
+    text-align: center;
+    
+}
+
+button{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 45%;
+    
+}
+
+.logo{
+
+    color: black;
+    font-size: 20px;
+    margin: 55px 55px 0 5px;
+}
+
+form{
+
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+}
